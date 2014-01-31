@@ -2,6 +2,7 @@ package microsoft;
 /**
  * This class is the Ternary search tree implementation.
  * It is advantageous over trie as it consumes much less memory.
+ * But it is as good as hybrid trie that uses hashmap
  * @author Apurv
  */
 public class TernarySearchTree {
