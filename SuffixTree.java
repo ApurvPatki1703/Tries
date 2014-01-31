@@ -8,6 +8,8 @@ import java.util.Map.Entry;
 
 /**
  * This class is implementation of the suffixtree.
+ * This is implementation on the lines of trie. 
+ * This data structure can be used to do substring search or pattern matching in case where the original text is fixed and pattern changes.
  * @author Apurv
  */
 public class SuffixTree {
